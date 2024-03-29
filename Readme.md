@@ -152,6 +152,13 @@ experiences](https://drive.google.com/file/d/1HytzfiIiVbxwE82wfCO8EChS3GjBllLZ/v
       height="50"
       style="max-width: 100%"
   /></a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
+      alt="dart"
+      width="40"
+      height="40"
+    />
   <a
     target="_blank"
     rel="noopener noreferrer nofollow"
@@ -164,6 +171,21 @@ experiences](https://drive.google.com/file/d/1HytzfiIiVbxwE82wfCO8EChS3GjBllLZ/v
       height="50"
       style="max-width: 100%"
   /></a>
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+      alt="csharp"
+      width="40"
+      height="40"
+    />
+       <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="java"
+      width="40"
+      height="40"
+    />
+
 </p>
 <div class="markdown-heading" dir="auto">
   <h4 class="heading-element" dir="auto"><code>Frontend:</code></h4>
@@ -207,14 +229,7 @@ experiences](https://drive.google.com/file/d/1HytzfiIiVbxwE82wfCO8EChS3GjBllLZ/v
       height="40"
     />
   </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
-      alt="azure"
-      width="40"
-      height="40"
-    />
-  </a>
+ 
   <a
     target="_blank"
     rel="noopener noreferrer nofollow"
@@ -384,6 +399,23 @@ experiences](https://drive.google.com/file/d/1HytzfiIiVbxwE82wfCO8EChS3GjBllLZ/v
       height="40"
     />
   </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+      alt="redis"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
+      alt="sqlite"
+      width="40"
+      height="40"
+    />
+  </a>
+  
 </p>
 <div class="markdown-heading" dir="auto">
   <h4 class="heading-element" dir="auto">
@@ -489,6 +521,7 @@ experiences](https://drive.google.com/file/d/1HytzfiIiVbxwE82wfCO8EChS3GjBllLZ/v
       data-canonical-src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"
       style="max-width: 100%"
   /></a>
+  
   <a
     target="_blank"
     rel="noopener noreferrer nofollow"
@@ -528,6 +561,70 @@ experiences](https://drive.google.com/file/d/1HytzfiIiVbxwE82wfCO8EChS3GjBllLZ/v
       data-canonical-src="https://img.icons8.com/?size=96&amp;id=emezZ8DDFo8A&amp;format=png"
       style="max-width: 100%"
   /></a>
+   <a href="https://heroku.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
+      alt="heroku"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://graphql.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
+      alt="graphql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://mochajs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"
+      alt="mocha"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+      alt="nginx"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
+      alt="jenkins"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
+      alt="azure"
+      width="40"
+      height="40"
+    />
+  </a>
   <a
     target="_blank"
     rel="noopener noreferrer nofollow"
