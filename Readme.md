@@ -6,7 +6,7 @@
   style="max-width: 100%; display: inline-block"
   data-target="animated-image.originalImage"
 />
-<h3 align="center">Imma JS, FLutter/Dart developer from UA</h3>
+<h3 align="center">Imma Web/Software developer from UA</h3>
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/23Serhii) -
 📫 How to [reach me](mailto:uantredogbusiness@gmail.com) - 📄 [Know about my
